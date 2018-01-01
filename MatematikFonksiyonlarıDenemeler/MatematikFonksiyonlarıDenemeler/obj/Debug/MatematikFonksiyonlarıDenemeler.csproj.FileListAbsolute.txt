@@ -1,0 +1,9 @@
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\bin\Debug\MatematikFonksiyonlarıDenemeler.exe.config
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\bin\Debug\MatematikFonksiyonlarıDenemeler.exe
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\bin\Debug\MatematikFonksiyonlarıDenemeler.pdb
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.csprojResolveAssemblyReference.cache
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.Form1.resources
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.Properties.Resources.resources
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.csproj.GenerateResource.Cache
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.exe
+c:\users\berke™\documents\visual studio 2013\Projects\MatematikFonksiyonlarıDenemeler\MatematikFonksiyonlarıDenemeler\obj\Debug\MatematikFonksiyonlarıDenemeler.pdb
