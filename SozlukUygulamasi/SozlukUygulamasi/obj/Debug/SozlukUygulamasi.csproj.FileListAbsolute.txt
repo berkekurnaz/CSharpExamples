@@ -1,0 +1,12 @@
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\bin\Debug\SozlukUygulamasi.exe.config
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\bin\Debug\SozlukUygulamasi.exe
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\bin\Debug\SozlukUygulamasi.pdb
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.csprojResolveAssemblyReference.cache
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.Form1.resources
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.Properties.Resources.resources
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.csproj.GenerateResource.Cache
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.exe
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.pdb
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.FrmIngilizce.resources
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.FrmTurkce.resources
+D:\visualProjeler\SozlukUygulamasi\SozlukUygulamasi\obj\Debug\SozlukUygulamasi.FrmHakkinda.resources
