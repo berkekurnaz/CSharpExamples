@@ -1,0 +1,9 @@
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\bin\Debug\SezarSifrelemeYontemi.exe.config
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\bin\Debug\SezarSifrelemeYontemi.exe
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\bin\Debug\SezarSifrelemeYontemi.pdb
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.csprojResolveAssemblyReference.cache
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.Form1.resources
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.Properties.Resources.resources
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.csproj.GenerateResource.Cache
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.exe
+D:\visualProjeler\SezarSifrelemeYontemi\SezarSifrelemeYontemi\obj\Debug\SezarSifrelemeYontemi.pdb
