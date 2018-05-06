@@ -9,4 +9,6 @@ Burada C# İle Hazırladığım Bazı Çalışmalara Ulaşabilirsin...
 
 2-) Türkçe-İngilizce Sözlük Uygulaması : [Ulaşmak İçin Tıklayın...](https://github.com/berkekurnaz/CSharpExamples/tree/master/SozlukUygulamasi)
 
+3-) Sezar Şifreleme Yöntemi : [Ulaşmak İçin Tıklayın...]
+(https://github.com/berkekurnaz/CSharpExamples/tree/master/SezarSifrelemeYontemi)
 
